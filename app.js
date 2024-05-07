@@ -5,9 +5,8 @@ const getUser = require("./webservice/controllers/getUser");
 const getUsers = require("./webservice/controllers/getUsers");
 
 const app = express();
-const formatsLogger = app.get("env") === "development" ? "dev" : "short";
 
-app.use(logger(formatsLogger));
+app.use(logger("short"));
 
 app.get("/users", getUsers);
 app.get("/users/:id", getUser);

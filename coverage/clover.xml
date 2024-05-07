@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1715029998408" clover="3.2.0">
-  <project timestamp="1715029998409" name="All files">
-    <metrics statements="24" coveredstatements="24" conditionals="4" coveredconditionals="3" methods="3" coveredmethods="3" elements="31" coveredelements="30" complexity="0" loc="24" ncloc="24" packages="3" files="4" classes="4"/>
-    <package name="webservice-jest-test">
-      <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="0" coveredmethods="0"/>
-      <file name="app.js" path="D:\_KursFSD-GoIT\GitHub\webservice-jest-test\app.js">
-        <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="0" coveredmethods="0"/>
+<coverage generated="1715087470633" clover="3.2.0">
+  <project timestamp="1715087470633" name="All files">
+    <metrics statements="23" coveredstatements="23" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3" elements="28" coveredelements="28" complexity="0" loc="23" ncloc="23" packages="3" files="4" classes="4"/>
+    <package name="webservice-jest-testing">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="app.js" path="D:\_KursFSD-GoIT\GitHub\webservice-jest-testing\app.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
-        <line num="8" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="10" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
         <line num="12" count="1" type="stmt"/>
-        <line num="13" count="1" type="stmt"/>
-        <line num="18" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="webservice-jest-test.webservice.controllers">
+    <package name="webservice-jest-testing.webservice.controllers">
       <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
-      <file name="getUser.js" path="D:\_KursFSD-GoIT\GitHub\webservice-jest-test\webservice\controllers\getUser.js">
+      <file name="getUser.js" path="D:\_KursFSD-GoIT\GitHub\webservice-jest-testing\webservice\controllers\getUser.js">
         <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -31,7 +30,7 @@
         <line num="15" count="1" type="stmt"/>
         <line num="23" count="1" type="stmt"/>
       </file>
-      <file name="getUsers.js" path="D:\_KursFSD-GoIT\GitHub\webservice-jest-test\webservice\controllers\getUsers.js">
+      <file name="getUsers.js" path="D:\_KursFSD-GoIT\GitHub\webservice-jest-testing\webservice\controllers\getUsers.js">
         <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -39,9 +38,9 @@
         <line num="11" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="webservice-jest-test.webservice.models">
+    <package name="webservice-jest-testing.webservice.models">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="users.js" path="D:\_KursFSD-GoIT\GitHub\webservice-jest-test\webservice\models\users.js">
+      <file name="users.js" path="D:\_KursFSD-GoIT\GitHub\webservice-jest-testing\webservice\models\users.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
