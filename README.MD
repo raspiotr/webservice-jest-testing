@@ -8,3 +8,7 @@
 
 - **GET /users** - Returns an array of all users.
 - **GET /users/:id** - If such an 'id' exists, returns a user object.
+
+### Test coverage report:
+
+**https://raspiotr.github.io/webservice-jest-testing/**
